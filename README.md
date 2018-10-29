@@ -14,6 +14,7 @@ original paper : [http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-tim
 1. PureDiors/pytorch_RFCN : [https://github.com/PureDiors/pytorch_RFCN](https://github.com/PureDiors/pytorch_RFCN)
 2. xingmimfl/pytorch_RFCN : [https://github.com/xingmimfl/pytorch_RFCN](https://github.com/xingmimfl/pytorch_RFCN)
 3. princewang1994/R-FCN.pytorch : [https://github.com/princewang1994/R-FCN.pytorch](https://github.com/princewang1994/R-FCN.pytorch)
+> very good!
 
 
 ## blogs and articles
